@@ -27,4 +27,4 @@ Mapped user journey and gathered peer feedback to identify friction points.
 
 ## 🎨 Figma Design
 
-View full design here: (https://www.figma.com/make/mMrbHpxSYiNqbVSVdhK5lf/Product-Case-Study-UI-Design?t=daGMNjQOcVstKBEg-1)
+View full design here: https://www.figma.com/make/mMrbHpxSYiNqbVSVdhK5lf/Product-Case-Study-UI-Design?fullscreen=1&t=KVphNFWUBhFId5Je-1
