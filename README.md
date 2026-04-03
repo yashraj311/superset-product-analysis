@@ -23,4 +23,8 @@ Mapped user journey and gathered peer feedback to identify friction points.
 ## 🧠 Key Learnings
 - User journey mapping  
 - Problem prioritization  
-- Feature thinking as a Product Manager  
+- Feature thinking as a Product Manager
+
+## 🎨 Figma Design
+
+View full design here: (https://www.figma.com/make/mMrbHpxSYiNqbVSVdhK5lf/Product-Case-Study-UI-Design?t=daGMNjQOcVstKBEg-1)
